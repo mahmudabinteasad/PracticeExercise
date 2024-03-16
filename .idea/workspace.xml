@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="309e90da-65d0-4dc0-8339-a0b62426f1fd" name="Changes" comment="E4.1">
-      <change afterPath="$PROJECT_DIR$/src/FindPower.java" afterDir="false" />
+    <list default="true" id="309e90da-65d0-4dc0-8339-a0b62426f1fd" name="Changes" comment="E4.3">
+      <change afterPath="$PROJECT_DIR$/src/ProperAlign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="E4.3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,9 +42,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CompareIntegers.executor": "Run",
+    "Application.ProperAlign.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E4.2",
+    "git-widget-placeholder": "E4.4",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -61,11 +67,29 @@
       <option name="project" value="LOCAL" />
       <updated>1710600335859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="E4.2">
+      <option name="closed" value="true" />
+      <created>1710600641369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710600641369</updated>
+    </task>
+    <task id="LOCAL-00003" summary="E4.3">
+      <option name="closed" value="true" />
+      <created>1710600797414</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710600797414</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="E4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="E4.1" />
+    <MESSAGE value="E4.2" />
+    <MESSAGE value="E4.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="E4.3" />
   </component>
 </project>
